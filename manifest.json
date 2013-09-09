@@ -1,0 +1,19 @@
+{
+  "name": "Remove Globo.com Comments",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Remova os comentários das páginas do portal Globo.com para continuar a ter esperança pela humanidade.",
+  "homepage_url": "http://matheusbras.github.io/remove-globo-com-comments",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["src/inject/inject.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
