@@ -11,7 +11,9 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*/*"],
+      "matches": ["http://globo.com/*",
+                  "http://globoesporte.globo.com/*",
+                  "http://g1.globo.com/*"],
       "js": ["src/inject/inject.js"],
       "run_at": "document_end"
     }
