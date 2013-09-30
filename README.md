@@ -1,7 +1,7 @@
 Remove Globo.com Comments
 =========================
 
-Você acessa o G1, começa a ler uma notícia, chega na parte dos comentários e lê o segunte:
+Você acessa o G1, começa a ler uma notícia, chega na parte dos comentários e lê o seguinte:
 **"Quem tatua no pescoço ja tem sua morte agendada"**
 
 ![Facepalm](https://farm4.staticflickr.com/3653/3390182310_f86c82cb95.jpg)
