@@ -8,10 +8,16 @@ Você acessa o G1, começa a ler uma notícia, chega na parte dos comentários e
 
 Se você está cansado de facepalms e ainda quer ter esperança pela humanidade **instale esta extensão.** :)
 
-[Link de download direto](https://github.com/matheusbras/remove-globo-com-comments/blob/master/remove-globo-com-comments.crx?raw=true)
 
-## Instalação
+## Instalação Chrome
+
+[Link de download da versão para o Chrome](https://github.com/matheusbras/remove-globo-com-comments/blob/master/remove-globo-com-comments.crx?raw=true)
 
 No Chrome, abra Window > Extensions. Arraste remove-globo-com-comments.crx na página das extensões.
 
+# Instalação Safari
+
+[Link de download da versão para Safari](https://github.com/matheusbras/remove-globo-com-comments/raw/master/RemoveGlobocomComments.safariextz)
+
+Abra o arquivo e confirme a instalação
 
